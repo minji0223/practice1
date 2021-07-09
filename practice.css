@@ -21,7 +21,6 @@ left: 50px;
         color:rgb(133, 161, 238);
         left: 50px;
         } 
-}
 
 h2 {
     position: absolute;
@@ -40,4 +39,12 @@ h3 {
         color:rgb(35, 39, 48);
         top: 100px;
         left: 50px;
+}
+
+.marble {
+    position: absolute;
+    width: 18rem;
+top: 170px;
+left: 50px;
+
 }
