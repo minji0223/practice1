@@ -10,4 +10,34 @@ left: 50px;
     position: absolute;
     width: 50rem;
 top: 170px;
+left: 50px;
+}
+
+@media only screen and (max-width: 50rem) {
+    h1 {
+        position: absolute;
+        font-family: "Helvetica";
+        font-size: 30px;
+        color:rgb(133, 161, 238);
+        left: 50px;
+        } 
+}
+
+h2 {
+    position: absolute;
+        font-family: "Helvetica";
+        font-size: 20px;
+        color:rgb(34, 35, 39);
+        top: 50px;
+        left: 50px;
+
+}
+
+h3 {
+    position: absolute;
+        font-family: "Helvetica";
+        font-size: 15px;
+        color:rgb(35, 39, 48);
+        top: 100px;
+        left: 50px;
 }
